@@ -1,0 +1,1 @@
+{"rustc":16373315110646242656,"features":"[]","target":16725941719539701862,"profile":4346958313921192839,"path":1036222786711178230,"deps":[["bufstream v0.1.3",10087870797073393963]],"local":[{"MtimeBased":[[1520103863,280319092],".fingerprint/demo-6a9fa8d650ca9d3d/dep-bin-demo-6a9fa8d650ca9d3d"]}],"rustflags":["--error-format=json"]}
