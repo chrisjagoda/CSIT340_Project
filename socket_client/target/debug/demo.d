@@ -1,1 +1,1 @@
-/home/chris/Repos/socket_client/target/debug/demo: /home/chris/Repos/socket_client/src/main.rs
+C:\Users\chris\Documents\GitHub\CSIT340_Project\socket_client\target\debug\demo.pdb: C:\Users\chris\Documents\GitHub\CSIT340_Project\socket_client\src\main.rs C:\Users\chris\Documents\GitHub\CSIT340_Project\socket_client\src\tcp_client.rs
